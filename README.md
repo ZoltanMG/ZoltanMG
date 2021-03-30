@@ -1,5 +1,5 @@
 ### Hi 👋
-Zoltán is a developer with knowledge of GIT, Python, C, Mysql, Flask, Jinja2, deployment with NGINX and Gunicorn, HTML5, and CSS3, with great motivation to learn and enthusiasm for teamwork. 
+Zoltán is a junior full-stack software developer, always eager to learn and contribute to both the work team and the company, with knowledge in GIT, Python, C, Mysql, Flask, Jinja2, NGINX and Gunicorn, HTML5 and CSS, also with soft skills such as communication, problem-solving, teamwork and a lot of curiosity. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoltanMG&layout=compact)
 
